@@ -2,18 +2,20 @@
 ![Housify](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
 
 `Group project` `Web Portfolio project`
+
 The project is a Property management web app that helps people to rent or buy property at any part of the World. We are using API to list the available houses, With Agents to facilitate the process. 
 
 
 
 # Rapid_Api
 
-This contains project on API and TDD. It is part of the projects at Alx Full-stack Nanodegree program. It demonstrates the knowledge of gained so far: React, node and Mongo db
+This contains project on API and TDD. It is part of the projects at Alx Full-stack program. It demonstrates the knowledge we have gained so far: React, node and Mongo db
 
 ### Task - Full Stack webstack portfolio project(Housify)
 
 
-alx_africaalx_africa
+alx_africa
+
 The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
 
 # Getting Started with Housify codebase
@@ -30,7 +32,7 @@ Follow the steps highlighted below how to get the application running on your lo
 
     1. Open the project folder with your desire code editor
     2. Open a built in terminal without included with your text editor
-    3. To install all dependencies used in the project, type in `npm install` into the open terminal and click enter on your keyboard
+    3. To install all dependencies used in the project, type in `npm install (dependency-name)` into the open terminal and click enter on your keyboard
     4. To ensure the project is open with rules specific by eslint used in this project, type in `npm run lint` on the terminal
     5. Next, ensure the project files are rightly formatted by typing in `npm run format`
     6. Finally, to start the development server, `npm run start`
@@ -103,6 +105,14 @@ utils
 └── partners.js
 
 `/utils` contains files that deal with logic to fulfill a certain function. They are functional pieces commonly used in many places in the project.
+
+Give a ⭐ if project was helpful
+
+# 📄 License
+
+Copy © 2022.
+
+Project is [MIT](https://github.com/kwamboka1/housefy/blob/main/LICENSE) licensed
 
 AUTHORS
 
